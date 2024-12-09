@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "lcr-meter-e7-28"
+version = "0.1.0"
+description = "GUI app for lcr-meter e7-28"
+authors = ["Eugene Popov <kosmokot45@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
