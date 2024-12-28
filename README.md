@@ -60,7 +60,7 @@ real, float is transferred to radians (fi*57.2957795)
     C = 1/2*pi*f*X; L = 2*pi*f*X
 
 TODO:
-- [ x ] - connection with simple script
+- [x] - connection with simple script
 - [ ] - collect all byte-commands
 - [ ] - draw simple gui with main functional
 - [ ] - mode switcher
